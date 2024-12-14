@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaseH-Dev
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning Python and Git
 - 📫 How to reach me cgholt6@gmail.com
 
 <!---
